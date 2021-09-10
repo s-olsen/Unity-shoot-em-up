@@ -1,2 +1,3 @@
 # Unity-shoot-em-up
-A unity game in which you pilot a ship that needs to shoot enemies down and make it across the map alive
+A unity game in which you pilot a ship that needs to shoot enemies down and make it across the map alive. This was a collaborative effort with 2 other students at the time during university. The main idea I had come up with was a mechanic that allows the player to change the angle of the camera view between side-on and a birds-eye view. In theory this would allow for the player to stragetically avoid obstacles or find new ways to beat a level but in practice it doesn't work so well. I personally created the 3d assets used in the game and programmed the enemy logic which, allowed them to find where the player is and aim to shoot at them.
+This game was programmed in C#
